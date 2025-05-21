@@ -1,0 +1,18 @@
+# Visual Studio
+.vs/
+*.vc.db
+*.ipch
+*.suo
+*.user
+*.cache
+
+# Build
+build/
+
+# Node.js / Web
+node_modules/
+dist/
+
+# OS
+.DS_Store
+Thumbs.db
